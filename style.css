@@ -1,0 +1,11 @@
+	.card{
+		width:500px; height: fit-content; background-color: aliceblue; 
+	border-radius: 25px; border: solid 2px navy; margin: 40px; padding: 40px
+	}
+	.card2{
+		width:500px; height: fit-content; background-color: aliceblue; 
+	border-radius: 25px; border: solid 2px navy; margin: 40px; padding: 40px;
+	}
+	span{
+		color: navy; 
+	}
